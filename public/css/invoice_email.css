@@ -5,11 +5,11 @@
 */
 #menubar, #footer { display: none; }
 * { margin: 0; padding: 0; }
-body { font-family: Helvetica; font-size: 13px; }
+body { font-family: DejaVu Sans; font-size: 13px; }
 #page-wrap { width: 750px; margin: 0 auto; }
-pre { font-family: Helvetica; font-size: 13px; }
+pre { font-family: DejaVu Sans; font-size: 13px; }
 
-#page-wrap { font-family: Helvetica; }
+#page-wrap { font-family: DejaVu Sans; }
 #page-wrap table { border-collapse: collapse; }
 #page-wrap table#items td { padding: 10px; }
 #page-wrap #meta table td, #page-wrap table th { border: 1px solid black; padding: 5px; }
